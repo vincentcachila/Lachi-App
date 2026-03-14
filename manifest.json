@@ -8,14 +8,14 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://www.lachihandicraftsph.com/web/image/5331-0f334e1f/Lachi-192.webp",
+      "src": "https://i.ibb.co/0RSrHnvf/Lachi-192.png",
       "sizes": "192x192",
-      "type": "image/webp"
+      "type": "image/png"
     },
     {
-      "src": "https://www.lachihandicraftsph.com/web/image/5331-0f334e1f/Lachi-192.webp",
+      "src": "https://i.ibb.co/7JgZLTpT/Lachi-512.png",
       "sizes": "512x512",
-      "type": "image/webp"
+      "type": "image/png"
     }
   ]
 }
