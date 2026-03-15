@@ -1,8 +1,8 @@
 {
   "name": "Lachi Handicrafts",
-  "short_name": "Lachi",
+  "short_name": "Lachi App (Beta)",
   "start_url": "/",
-  "display": "standalone",
+  "display": "fullscreen",
   "background_color": "#ffffff",
   "theme_color": "#000000",
   "orientation": "portrait",
