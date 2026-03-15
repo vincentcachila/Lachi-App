@@ -10,7 +10,7 @@
   "background_color": "#ffffff",
   "theme_color": "#000000",
   "orientation": "portrait",
-  "categories": ["shopping", "lifestyle"],
+  "categories": ["shopping", "lifestyle", "fashion"],
   "lang": "en",
   "icons": [
     {
