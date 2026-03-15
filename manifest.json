@@ -7,6 +7,8 @@
   "background_color": "#ffffff",
   "theme_color": "#000000",
   "orientation": "portrait",
+  "categories": ["shopping", "lifestyle"],
+  "lang": "en",
   "icons": [
     {
       "src": "https://i.ibb.co/0RSrHnvf/Lachi-192.png",
