@@ -5,6 +5,7 @@
   "description": "Lachi Handicrafts is a handcrafted accessories store offering clay earrings, bracelets, necklaces, and unique handmade gifts.",
   "start_url": "/",
   "display": "fullscreen",
+  "display_override": ["fullscreen", "minimal-ui"]
   "background_color": "#ffffff",
   "theme_color": "#000000",
   "orientation": "portrait",
@@ -22,4 +23,19 @@
       "type": "image/png"
     }
   ]
+
+  "shortcuts": [
+  {
+    "name": "Shop",
+    "url": "/shop"
+  },
+  {
+    "name": "Cart",
+    "url": "/shop/cart"
+  },
+  {
+    "name": "My Account",
+    "url": "/my/home"
+  }
+]
 }
